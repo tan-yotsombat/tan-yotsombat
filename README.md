@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tan-yotsombat
+- 🖥️ I'm currently working as a software engineer. 
+  - Java, JS, python
+- 👀 I’m interested in blockchain, cryptocurrency, cosmos, and related stuffs
+- 🌱 I’m currently learning some cosmos dk, smart contracts
+- 📫 How to reach me: mailto:chanun.yotsombat@gmail.com 
